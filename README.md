@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Guilherme Tomé">
 
 <p align="left"> 
-  Seha bem vindo, sou desenvolvedor backend, aqui no meu perfil tem todas minhas informações de contato e linguagens que trabalho
+  Seja bem vindo, sou desenvolvedor backend, aqui no meu perfil tem todas minhas informações de contato e linguagens que trabalho
 </p>
 
 <p align="left">
