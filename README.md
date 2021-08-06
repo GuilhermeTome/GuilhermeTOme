@@ -34,10 +34,10 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/guilherme-tome-dos-reis-developer/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-tome-dos-reis-developer/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5511971512519&text=Ol%C3%A1%2C%20acabei%20de%20pegar%20seu%20contato%20pelo%20GitHub" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511971512519&text=Ol%C3%A1%2C%20acabei%20de%20pegar%20seu%20contato%20pelo%20GitHub"/></a>
 
 </p>  
