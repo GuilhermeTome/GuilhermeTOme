@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Guilherme Tomé">
 
 <p align="left"> 
-  Seja bem vindo, sou desenvolvedor backend, aqui no meu perfil tem todas minhas informações de contato e linguagens que trabalho
+  Welcome, I'm a backend software enginner, here on my profile you have all my contact information and languages I work
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  🦄 Languages:
   
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas:
+  💼 Common Tools:
   
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  💌 você pode entrar em contato por aqui: ⤵️
+  💌 You can get in touch here: ⤵️
 </p>
 
 <p align="left">
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=GuilhermeTome&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-Estudando Engenharia da computação e trabalhando como dev PHP
+Studying Computer Engineering and working as a PHP backenb developer
 
 
 </p>
