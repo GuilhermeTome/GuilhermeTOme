@@ -46,12 +46,12 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=GuilhermeTome&show_icons=true&cache_seconds=2300&count_private=true">
 
-### Desenvolvedor backend PHP
+### Backend Software Enginner 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=GuilhermeTome&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-Studying Computer Engineering and working as a PHP backenb developer
+Studying software Engineering and working as a PHP backenb developer
 
 
 </p>
