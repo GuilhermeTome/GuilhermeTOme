@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=GuilhermeTome&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-Studying software Engineering and working as a PHP backenb developer
+Studying software Engineering and working as a PHP backend developer
 
 
 </p>
